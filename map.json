@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/maps.workadventu.re\/outside\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/riddy.github.io\/pao-se-map\/outside\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/maps.workadventu.re\/cantine\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/riddy.github.io\/pao-se-map\/cantine\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
