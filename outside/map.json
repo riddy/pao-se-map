@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/corridor#front_of_fantasy"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/riddy.github.io\/pao-se-map\/map.json#exit_outside"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -52,7 +52,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
          "name":"object",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -105,7 +105,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -114,7 +114,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -29682,7 +29682,7 @@
          "margin":0,
          "name":"floortileset",
          "spacing":0,
-         "tilecount":64,
+         "tilecount":1,
          "tileheight":32,
          "tiles":[
                 {
