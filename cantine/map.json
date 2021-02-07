@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/riddy.github.io\/pao-se-map\/map.json#exit_cantine"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/riddy.github.io\/pao-se-map\/map.json#cantineStart"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -100,7 +100,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
