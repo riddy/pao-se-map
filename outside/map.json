@@ -51,6 +51,12 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"https:\/\/orangefreesounds.com\/wp-content\/uploads\/2014\/05\/No-name-kids-song.mp3?_=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
