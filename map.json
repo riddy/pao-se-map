@@ -132,7 +132,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pao-se-ctf.herokuapp.com\/#\/"
+                 "value":"https:\/\/codi.kanthaus.online\/s\/g5PuR2URM#"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pao-se-ctfd.herokuapp.com\/admin\/challenges"
+                 "value":"https:\/\/codi.kanthaus.online\/s\/FlmPUbTme"
                 }],
          "type":"tilelayer",
          "visible":true,
